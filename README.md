@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Caio Francesco
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub%21;Começando+minha+jornada+em+Tecnologia;Atualmente+estudando+SQL" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub%21;Comecando+minha+jornada+em+Tecnologia;Atualmente+estudando+SQL+e+bancos+de+dados" alt="Typing animation" />
 
 <br>
 
@@ -44,3 +44,4 @@ Este GitHub vai acompanhar minha evolução: desde meus primeiros estudos e exer
 
 ```text
 Mais tecnologias serão adicionadas conforme eu for aprendendo.
+```
