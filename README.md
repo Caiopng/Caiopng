@@ -22,12 +22,18 @@ Estou construindo minha base aos poucos e usando este GitHub para registrar meu 
 
 ## 📚 Atualmente estudando
 
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+
+</div>
+
 - **SQL**
 - **MySQL**
 
 ---
 
-## 🔮 Em breve
+## 🔧 Em breve
 
 - **Git e GitHub**
 - **HTML**
@@ -43,6 +49,16 @@ Conforme eu continuar aprendendo, novos projetos serão adicionados aqui.
 
 ---
 
+## 📌 Minha jornada
+
 > 💻 Aprendendo aos poucos.  
 > ⚙️ Construindo projetos.  
 > 🚀 Evoluindo todos os dias.
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Caiopng-181717?style=for-the-badge&logo=github)](https://github.com/Caiopng)
+
+</div>
