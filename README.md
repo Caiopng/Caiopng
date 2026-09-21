@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Caio Francesco
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Começando+minha+jornada+em+Tecnologia;Atualmente+estudando+SQL+%F0%9F%92%99" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Começando+minha+jornada+em+Tecnologia;Atualmente+estudando+SQL" alt="Typing Animation">
 
 <br>
 
