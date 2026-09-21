@@ -33,6 +33,16 @@ Estou construindo minha base aos poucos e usando este GitHub para registrar meu 
 
 ---
 
+## 📘 Estudos de SQL
+
+Este espaço está em construção e representa o início da minha jornada em SQL e bancos de dados.
+
+Ainda estou aprendendo os conceitos básicos, praticando exercícios e registrando meu progresso conforme eu evoluo.
+
+> Aqui vou guardar anotações, desafios e estudos de SQL enquanto continuo aprendendo.
+
+---
+
 ## 🔧 Em breve
 
 - **Git e GitHub**
