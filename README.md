@@ -14,34 +14,35 @@
 
 ## 🌱 Sobre mim
 
-Olá! Eu sou **Caio Francesco**.
+Sou iniciante em tecnologia, focado em aprender **SQL, bancos de dados e desenvolvimento**.
 
-Estou começando minha jornada na área de tecnologia e atualmente estou focado em aprender **SQL e bancos de dados**.
+Estou construindo minha base aos poucos e usando este GitHub para registrar meu aprendizado, meus exercícios e meus primeiros projetos.
 
-Este GitHub vai acompanhar minha evolução: desde meus primeiros estudos e exercícios até os projetos que eu desenvolver ao longo do caminho.
+---
+
+## 📚 Atualmente estudando
+
+- **SQL**
+- **MySQL**
+
+---
+
+## 🔮 Em breve
+
+- **Git e GitHub**
+- **HTML**
+- **CSS**
+
+---
+
+## 🚀 Projetos
+
+Ainda estou construindo meus primeiros projetos e exercícios.
+
+Conforme eu continuar aprendendo, novos projetos serão adicionados aqui.
+
+---
 
 > 💙 Aprendendo aos poucos.  
 > 🌸 Construindo projetos.  
 > 💻 Evoluindo todos os dias.
-
----
-
-## 🛠️ Tecnologias
-
-### 📚 Atualmente estudando
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-
-</div>
-
-**SQL / MySQL**
-
-> Estou começando a estudar SQL e bancos de dados.
-
-### 🔮 Em breve...
-
-```text
-Mais tecnologias serão adicionadas conforme eu for aprendendo.
-```
