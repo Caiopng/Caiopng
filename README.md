@@ -8,7 +8,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D47A1,100:FF4F9A&height=120&section=header" width="100%"/>
 
 </div>
-
 ---
 
 ## 🌱 Sobre mim
