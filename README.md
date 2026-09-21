@@ -1,1 +1,46 @@
-# Caio-Francesco
+<div align="center">
+
+# 👋 Olá, eu sou Caio Francesco
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Começando+minha+jornada+em+Tecnologia;Atualmente+estudando+SQL+%F0%9F%92%99" alt="Typing Animation">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D47A1,100:FF4F9A&height=120&section=header" width="100%"/>
+
+</div>
+
+---
+
+## 🌱 Sobre mim
+
+Olá! Eu sou **Caio Francesco**.
+
+Estou começando minha jornada na área de tecnologia e atualmente estou focado em aprender **SQL e bancos de dados**.
+
+Este GitHub vai acompanhar minha evolução: desde meus primeiros estudos e exercícios até os projetos que eu desenvolver ao longo do caminho.
+
+> 💙 Aprendendo aos poucos.  
+> 🌸 Construindo projetos.  
+> 💻 Evoluindo todos os dias.
+
+---
+
+## 🛠️ Tecnologias
+
+### 📚 Atualmente estudando
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+
+</div>
+
+**SQL / MySQL**
+
+> Estou começando a estudar SQL e bancos de dados.
+
+### 🔮 Em breve...
+
+```text
+Mais tecnologias serão adicionadas conforme eu for aprendendo.
