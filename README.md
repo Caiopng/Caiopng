@@ -43,6 +43,6 @@ Conforme eu continuar aprendendo, novos projetos serão adicionados aqui.
 
 ---
 
-> 💙 Aprendendo aos poucos.  
-> 🌸 Construindo projetos.  
-> 💻 Evoluindo todos os dias.
+> 💻 Aprendendo aos poucos.  
+> ⚙️ Construindo projetos.  
+> 🚀 Evoluindo todos os dias.
